@@ -64,4 +64,4 @@ Feel free to fork the repo and submit PRs or raise issues!
 ## 📧 Contact
 
 Made with ❤️ by **Yahia Farah**  
-[LinkedIn](https://www.linkedin.com/yahia-farah)
+[LinkedIn]([https://www.linkedin.com/yahia-farah](https://www.linkedin.com/in/yahia-farah/))
